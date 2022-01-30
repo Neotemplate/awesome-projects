@@ -1,3 +1,5 @@
+#A base para o código original encontrei nesse vídeo: https://youtu.be/e_ZRDG4F4ZA
+#Foi acrescentado código para deixar a análise mais completa caso seja de interesse do usuário observar mais variável consolidadas.
 
 import requests
 import bs4
